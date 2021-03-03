@@ -29,3 +29,5 @@ Minimizer CSS Webpack: npm i css-minimizer-webpack-plugin terser-webpack-plugin 
 Variables de entorno: npm i dotenv-webpack -D
 
 Clean Webpack: npm i clean-webpack-plugin -D
+
+Stylus: npm i stylus -D
