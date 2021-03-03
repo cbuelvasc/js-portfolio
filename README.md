@@ -31,3 +31,11 @@ Variables de entorno: npm i dotenv-webpack -D
 Clean Webpack: npm i clean-webpack-plugin -D
 
 Stylus: npm i stylus -D
+
+Add Webpack Server: npm i webpack-dev-server -D
+
+Webpack Bundle Analyzer: npm i webpack-bundle-analyzer -D
+
+Analyzer:
+npx webpack --profile --json > stats.json
+npx webpack-bundle-analyzer stats.json
